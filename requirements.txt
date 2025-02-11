@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 torch==2.5.1
 torchvision==0.20.1
 torchaudio==2.5.1
@@ -7,3 +8,11 @@ pandas==2.2.2
 matplotlib==3.10.0
 tqdm==4.67.1
 Flask
+=======
+torch==2.5.1 
+transformers==4.48.2
+numpy==1.26.4
+pandas==2.2.2
+Flask==2.0.1
+Werkzeug==2.2.2
+>>>>>>> f07a5320eea1eea34564f839066da5f435bb2d0d
