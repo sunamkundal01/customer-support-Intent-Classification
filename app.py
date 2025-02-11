@@ -25,5 +25,5 @@ def predict_intent():
     predicted_label = predict(text, model, tokenizer, label_map)
     return jsonify({'intent': label_map[predicted_label]})
 
-# if __name__ == '__main__':
-#     app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
