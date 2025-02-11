@@ -1,3 +1,2 @@
-# //filepath: /c:/Users/sunam/Downloads/xerer final pro/intent_classification/.gitattributes
 intent_model.pth filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
